@@ -1,0 +1,23 @@
+img {
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#myDog {
+    width: 200px;
+    height: 150px;
+}
+
+#myBall {
+    width: 50px;
+    height: 50px;
+}
+
+.score {
+    color: blueviolet;
+    text-align: center;
+    font-size: 3rem;
+    border: 1px solid red;
+}
